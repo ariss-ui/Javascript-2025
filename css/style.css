@@ -6,15 +6,48 @@
 
 html {
   font-family: sans-serif;
-  background-color: darkslateblue;
+  background-color: cornflowerblue;
+  color: white;
   padding: 1rem;
-  color: whitesmoke;
 }
 
 h1,
 h2 {
   margin-bottom: 1rem;
-  color: coral;
+  color: darkslateblue;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+ul,
+ol {
+  margin-bottom: 1rem;
+  margin-left: 2rem;
+}
+
+li {
+  margin-bottom: 0.75rem;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  background-color: cornflowerblue;
+  color: white;
+  padding: 1rem;
+}
+
+h1,
+h2 {
+  margin-bottom: 1rem;
+  color: darkslateblue;
 }
 
 p {
